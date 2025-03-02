@@ -1,7 +1,8 @@
 # everline_api
-용인 에버라인 실시간 API 모듈
+용인 에버라인 API 모듈<br>
+[모듈 활용 제품 정보 정확도 테스트 영상](https://youtu.be/IRtelWYPXbw)
 
-# Parameter meaning
+# 값 정보
 ## updownCode | 상행하행여부
 | 값 | 뜻 |
 | --- | --- |
